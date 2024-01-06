@@ -4,7 +4,7 @@ var h = d.getHours();
 const ProxyDay   = '利刃';
 const ProxyNight = '搬瓦工';
 
-if (h >= 21 || h <1) {
+if (h >= 19 || h <1) {
     var ProxyNewPolicy = ProxyNight;
 } else {
     var ProxyNewPolicy = ProxyDay;
