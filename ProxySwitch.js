@@ -1,7 +1,7 @@
 var d = new Date();
 var h = d.getHours();
 
-const ProxyDay   = '利刃';
+const ProxyDay   = '大妈👩🏻';
 const ProxyNight = '搬瓦工';
 
 if (h >= 19 || h <1) {
